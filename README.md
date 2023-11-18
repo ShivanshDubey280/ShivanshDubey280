@@ -11,19 +11,17 @@
 
 - 🌱 &nbsp; Learning about Data Science, Systems Design.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Sketching 🖊 & Graphic Designing as hobbies/side hustles 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | Java | Python | C | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Machine Learning | Artificial Intelligence
+- 🌐 &nbsp; HTML | CSS | JavaScript | React
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp;  Machine Learning | Artificial Intelligence
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🖥 &nbsp; Adobe Illustrator| Photoshop | InDesign
 
 <br/><br/>
 
@@ -31,6 +29,7 @@
 
 <br>
 <p align="center">
+  
 <a href="https://www.linkedin.com/in/shivanshdubeyy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivansh%20Dubey-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/shivanshbdueyy/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shivanshbdueyy-black?style=flat-square&logo=instagram"></a>
