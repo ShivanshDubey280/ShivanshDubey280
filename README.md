@@ -13,7 +13,6 @@
 - 🌱 &nbsp; Learning about Data Science, Systems Design.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-- 
 
 <h3>🛠 Tech Stack</h3>
 
