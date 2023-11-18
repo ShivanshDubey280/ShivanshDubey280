@@ -29,9 +29,9 @@
   
 <a href="https://www.linkedin.com/in/shivanshdubeyy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivansh%20Dubey-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/shivanshbdueyy/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shivanshbdueyy-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/shivanshdubeyy/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shivanshbdueyy-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:shivanshdubey280@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivanshbubey280@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:shivanshdubey280@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivanshdubey280@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
