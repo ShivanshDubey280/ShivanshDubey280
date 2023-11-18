@@ -9,9 +9,9 @@
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at GEHU,Bhimtal and coding stuffs.
 
-- 🌱 &nbsp; Learning about Data Science, Systems Design.
+- 🌱 &nbsp; Learning about Data Science & Systems Design.
 
-- ✍️ &nbsp; Sketching 🖊 & Graphic Designing as hobbies/side hustles 
+- ✍️ &nbsp; Sketching🖊 & Graphic Designing💻 as hobbies/side hustles 
 
 <h3>🛠 Tech Stack</h3>
 
