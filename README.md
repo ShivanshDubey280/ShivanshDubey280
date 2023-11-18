@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Shivansh</h2>
 
-<img align='right' src="https://drive.google.com/file/d/1sOMKqJ6vxGyJa4JoaV76AN04m_vS13Au/view?usp=sharing" width="230">
+<img align='right' src="https://drive.google.com/file/d/1sOMKqJ6vxGyJa4JoaV76AN04m_vS13Au/view?usp=sharing.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
