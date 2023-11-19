@@ -1,6 +1,8 @@
-### Hi there 👋<h2> I'm Shivansh</h2>
+[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://rishavchanda.io)
 
-<img align='right' src="C:\Users\Dell\Pictures\code.png" width="230">
+
+<h1 align="center">Hi 👋, I'm Shivansh Dubey</h1>
+<h3 align="center">A passionate Computer Science Student from India.</h3>
 
 <h3> 👨🏻•💻 About Me </h3>
 
