@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Dubey</h1>
 <h3 align="center">A passionate Computer Science Student. 🇮🇳</h3>
 
+
 <h3> 👨🏻•💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
