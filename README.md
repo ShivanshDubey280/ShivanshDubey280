@@ -13,6 +13,7 @@
 
 - ✍️ &nbsp; Sketching🖊 & Graphic Designing💻 as hobbies/side hustles 
 
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | Java | Python | C | MySQL
@@ -22,6 +23,19 @@
 - 🔧 &nbsp;  Machine Learning | Artificial Intelligence
 
 - 🖥 &nbsp; Adobe Illustrator | Photoshop | InDesign
+
+
+<hr/>
+<h2 align="center">MY STATS</h2>
+<br/>
+<div class="images" align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshdubey280&show_icons=true&locale=en&layout=compact&theme=dark" alt="shivanshdubey280" height="200">
+<!--   <img  src="https://github-readme-stats.vercel.app/api?username=jazzminegarg&show_icons=true&locale=en&theme=dark" alt="jazzminegarg" height="200"> -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shivanshdubey280"/></a></div>
+
+<hr/>
+
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
