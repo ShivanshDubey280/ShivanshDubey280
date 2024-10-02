@@ -25,12 +25,6 @@
 - 🖥 &nbsp; Adobe Illustrator | Photoshop | InDesign
 
 
-<hr/>
-<h2 align="center">MY CONTRIBUTIONS</h2>
-<br/>
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jazzminegarg/jazzminegarg/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -45,3 +39,10 @@
 
 </p>
 
+
+<hr/>
+<h2 align="center">MY CONTRIBUTIONS</h2>
+<br/>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jazzminegarg/jazzminegarg/output/github-contribution-grid-snake-dark.svg" />
+</div>
