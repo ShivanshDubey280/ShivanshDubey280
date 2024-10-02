@@ -26,15 +26,11 @@
 
 
 <hr/>
-<h2 align="center">MY STATS</h2>
+<h2 align="center">MY CONTRIBUTIONS</h2>
 <br/>
-<div class="images" align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshdubey280&show_icons=true&locale=en&layout=compact&theme=dark" alt="shivanshdubey280" height="200">
-<!--   <img  src="https://github-readme-stats.vercel.app/api?username=jazzminegarg&show_icons=true&locale=en&theme=dark" alt="jazzminegarg" height="200"> -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shivanshdubey280"/></a></div>
-
-<hr/>
-
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jazzminegarg/jazzminegarg/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
